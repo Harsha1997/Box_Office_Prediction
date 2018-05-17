@@ -11,7 +11,7 @@ consumer_key = 'smxlBnDA3Wtvww2sFasJrpAbP'
 consumer_secret = 'i7Lps6KHHT6UhF1Eu09mcWA5JSmtN1DodEM0CMPuUpuyIc2XuM'
 
 #oauth = OAuth(access_token,access_secret,consumer_key,consumer_secret)
-
+#using twitter api
 
 #streaming API
 
